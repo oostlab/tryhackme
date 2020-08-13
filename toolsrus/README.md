@@ -1,13 +1,13 @@
 # Toolsarus
 
 IP-adress
-'''
+```
 10.10.31.199
-'''
+```
 
 ## Task 1
 What directory can you find, that begins with a "g"?
-'''
+```
 kali@franka:~$ gobuster dir -u http://10.10.31.199 -w /usr/share/seclists/Discovery/Web-Content/common.txt -t 80                                                                                                                                                                                                           
 ===============================================================                                                                                                                                                                                                                                                            
 Gobuster v3.0.1                                                                                                                                                                                                                                                                                                            
@@ -32,8 +32,9 @@ by OJ Reeves (@TheColonial) & Christian Mehlmauer (@_FireFart_)
 ===============================================================
 2020/08/13 15:33:03 Finished
 ===============================================================
- '''
- ###1
+ ```
+ 
+ Question 1:
  '''
  Guidelines
  '''
